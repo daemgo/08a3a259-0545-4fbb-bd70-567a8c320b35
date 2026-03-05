@@ -1,0 +1,89 @@
+{
+  "profile": {
+    "companyName": "",
+    "shortName": "",
+    "industry": "",
+    "subIndustry": "",
+    "scale": "",
+    "rating": "",
+    "tags": [],
+    "priority": "",
+
+    "products": [],
+    "mainBusiness": "",
+    "targetCustomers": [],
+    "businessModel": "",
+
+    "techStack": {
+      "current": [],
+      "inferred": [],
+      "maturity": "",
+      "direction": ""
+    },
+
+    "strategy": {
+      "phase": "",
+      "growthStage": "",
+      "competitivePosition": "",
+      "digitalMaturity": "",
+      "analysisPath": "",
+      "informationQuality": "",
+      "expansionSignals": [],
+      "contractionSignals": [],
+      "riskSignals": []
+    },
+
+    "contacts": [],
+
+    "requirements": [],
+    "painPoints": [],
+    "opportunities": [],
+
+    "budget": {
+      "range": "",
+      "estimatedAmount": null,
+      "currency": "CNY",
+      "deliveryTime": "",
+      "paymentCycle": "",
+      "decisionCycle": "",
+      "intentionLevel": 0,
+      "stage": ""
+    },
+
+    "decision": {
+      "makers": [],
+      "influencers": [],
+      "blockers": [],
+      "criteria": [],
+      "timeline": ""
+    },
+
+    "salesGuide": {
+      "iceBreaker": [],
+      "elevatorPitch": "",
+      "keyQuestions": [],
+      "objectionHandling": [],
+      "competitorAnalysis": [],
+      "interviewGuide": []
+    },
+
+    "tracking": {
+      "status": "",
+      "stage": "",
+      "nextAction": "",
+      "nextActionDate": null,
+      "lastUpdate": null,
+      "touchpoints": []
+    },
+
+    "metadata": {
+      "createdAt": null,
+      "updatedAt": null,
+      "createdBy": "",
+      "version": "1.0",
+      "sources": [],
+      "confidence": 0,
+      "notes": ""
+    }
+  }
+}
