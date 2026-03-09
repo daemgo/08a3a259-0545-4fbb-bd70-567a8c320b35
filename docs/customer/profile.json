@@ -1,34 +1,48 @@
 {
   "profile": {
-    "companyName": "",
-    "shortName": "",
-    "industry": "",
-    "subIndustry": "",
-    "scale": "",
-    "rating": "",
-    "tags": [],
-    "priority": "",
+    "companyName": "杭州信息科技有限公司",
+    "shortName": "杭州信息科技",
+    "industry": "商务服务",
+    "subIndustry": "信息技术服务",
+    "scale": "中型",
+    "rating": "B",
+    "tags": [
+      "信息技术",
+      "新能源",
+      "国有企业全资子公司",
+      "西湖电子集团",
+      "汽车租赁",
+      "物业管理",
+      "潜在客户"
+    ],
+    "priority": "中等",
 
-    "products": [],
-    "mainBusiness": "",
-    "targetCustomers": [],
-    "businessModel": "",
+    "products": [
+      "计算机信息技术开发",
+      "新能源技术开发",
+      "微电子技术开发",
+      "汽车租赁服务",
+      "物业管理服务"
+    ],
+    "mainBusiness": "计算机信息技术开发、新能源技术开发、汽车租赁、物业管理",
+    "targetCustomers": ["待补充"],
+    "businessModel": "B2B服务",
 
     "techStack": {
-      "current": [],
-      "inferred": [],
-      "maturity": "",
-      "direction": ""
+      "current": ["待评估"],
+      "inferred": ["企业信息化系统", "新能源技术平台"],
+      "maturity": "待评估",
+      "direction": "待评估"
     },
 
     "strategy": {
-      "phase": "",
-      "growthStage": "",
-      "competitivePosition": "",
-      "digitalMaturity": "",
-      "analysisPath": "",
-      "informationQuality": "",
-      "expansionSignals": [],
+      "phase": "成熟期",
+      "growthStage": "稳定运营",
+      "competitivePosition": "西湖电子集团全资子公司，持有数源科技股份",
+      "digitalMaturity": "待评估",
+      "analysisPath": "公开信息收集",
+      "informationQuality": "基础",
+      "expansionSignals": ["注册资本1亿元", "持有数源科技9.67%股份"],
       "contractionSignals": [],
       "riskSignals": []
     },
@@ -37,53 +51,63 @@
 
     "requirements": [],
     "painPoints": [],
-    "opportunities": [],
+    "opportunities": ["国有企业数字化转型需求", "新能源业务拓展", "集团协同效应"],
 
     "budget": {
-      "range": "",
+      "range": "待评估",
       "estimatedAmount": null,
       "currency": "CNY",
-      "deliveryTime": "",
-      "paymentCycle": "",
-      "decisionCycle": "",
-      "intentionLevel": 0,
-      "stage": ""
+      "deliveryTime": "待评估",
+      "paymentCycle": "待评估",
+      "decisionCycle": "待评估",
+      "intentionLevel": 50,
+      "stage": "初步接触"
     },
 
     "decision": {
-      "makers": [],
-      "influencers": [],
+      "makers": ["待补充"],
+      "influencers": ["待补充"],
       "blockers": [],
       "criteria": [],
-      "timeline": ""
+      "timeline": "待评估"
     },
 
     "salesGuide": {
-      "iceBreaker": [],
+      "iceBreaker": [
+        "贵司作为西湖电子集团全资子公司，在信息技术和新能源领域深耕多年",
+        "了解到贵司成立于2001年，有20多年的发展历史"
+      ],
       "elevatorPitch": "",
-      "keyQuestions": [],
+      "keyQuestions": [
+        "贵司目前在信息化建设方面有哪些重点规划？",
+        "新能源技术业务的拓展是否需要IT系统支持？"
+      ],
       "objectionHandling": [],
       "competitorAnalysis": [],
       "interviewGuide": []
     },
 
     "tracking": {
-      "status": "",
-      "stage": "",
-      "nextAction": "",
+      "status": "潜在客户",
+      "stage": "初步接触",
+      "nextAction": "联系关键决策人",
       "nextActionDate": null,
       "lastUpdate": null,
       "touchpoints": []
     },
 
     "metadata": {
-      "createdAt": null,
-      "updatedAt": null,
-      "createdBy": "",
+      "createdAt": "2026-03-09",
+      "updatedAt": "2026-03-09",
+      "createdBy": "AI系统",
       "version": "1.0",
-      "sources": [],
-      "confidence": 0,
-      "notes": ""
+      "sources": [
+        "企查查",
+        "天眼查",
+        "百度百科"
+      ],
+      "confidence": 70,
+      "notes": "成立于2001年，注册资本10,000万人民币，西湖电子集团全资子公司，持有数源科技股份有限公司9.6743%股份。法定代表人：许虎忠。地址：浙江省杭州市西湖区文三路90号科技大厦A709-A710。"
     }
   }
 }
