@@ -9,10 +9,11 @@
     "tags": [
       "信息技术",
       "新能源",
-      "国有企业全资子公司",
-      "西湖电子集团",
+      "国有企业",
+      "西湖电子集团全资控股",
       "汽车租赁",
       "物业管理",
+      "进出口贸易",
       "潜在客户"
     ],
     "priority": "中等",
@@ -22,9 +23,13 @@
       "新能源技术开发",
       "微电子技术开发",
       "汽车租赁服务",
-      "物业管理服务"
+      "物业管理服务",
+      "汽车及配件销售",
+      "计算机软硬件销售",
+      "货物进出口",
+      "技术服务"
     ],
-    "mainBusiness": "计算机信息技术开发、新能源技术开发、汽车租赁、物业管理",
+    "mainBusiness": "计算机信息技术开发、新能源技术开发、汽车租赁、物业管理、汽车及配件销售、货物进出口",
     "targetCustomers": ["待补充"],
     "businessModel": "B2B服务",
 
@@ -38,11 +43,11 @@
     "strategy": {
       "phase": "成熟期",
       "growthStage": "稳定运营",
-      "competitivePosition": "西湖电子集团全资子公司，持有数源科技股份",
+      "competitivePosition": "西湖电子集团全资控股子公司，持有数源科技股份",
       "digitalMaturity": "待评估",
       "analysisPath": "公开信息收集",
       "informationQuality": "基础",
-      "expansionSignals": ["注册资本1亿元", "持有数源科技9.67%股份"],
+      "expansionSignals": ["注册资本1亿元", "实缴资本1亿元", "对外投资8家企业", "实际控制10家企业"],
       "contractionSignals": [],
       "riskSignals": []
     },
@@ -51,7 +56,7 @@
 
     "requirements": [],
     "painPoints": [],
-    "opportunities": ["国有企业数字化转型需求", "新能源业务拓展", "集团协同效应"],
+    "opportunities": ["国有企业数字化转型需求", "新能源业务拓展", "集团协同效应", "进出口贸易数字化需求"],
 
     "budget": {
       "range": "待评估",
@@ -74,7 +79,7 @@
 
     "salesGuide": {
       "iceBreaker": [
-        "贵司作为西湖电子集团全资子公司，在信息技术和新能源领域深耕多年",
+        "贵司作为西湖电子集团全资控股子公司，在信息技术和新能源领域深耕多年",
         "了解到贵司成立于2001年，有20多年的发展历史"
       ],
       "elevatorPitch": "",
@@ -97,27 +102,43 @@
     },
 
     "companySize": {
-      "employeeCount": 200,
+      "employeeCount": "待评估",
       "annualRevenue": {
-        "amount": 10000000,
+        "amount": null,
         "currency": "CNY",
         "unit": "CNY",
-        "description": "年营收约1000万人民币"
+        "description": "待评估"
       }
+    },
+
+    "businessInfo": {
+      "establishmentDate": "2001-10-23",
+      "registeredCapital": 100000000,
+      "paidInCapital": 100000000,
+      "legalRepresentative": "王河森",
+      "companyType": "有限责任公司（非自然人投资或控股的法人独资）",
+      "creditCode": "9133010073319317X6",
+      "businessStatus": "存续",
+      "registrationAddress": "浙江省杭州市西湖区文三路90号科技大厦A709-A710",
+      "parentCompany": "西湖电子集团有限公司",
+      "ownershipStructure": "法人独资",
+      "subsidiariesCount": 8,
+      "controlledCompaniesCount": 10
     },
 
     "metadata": {
       "createdAt": "2026-03-09",
       "updatedAt": "2026-03-09",
       "createdBy": "AI系统",
-      "version": "1.1",
+      "version": "1.2",
       "sources": [
         "企查查",
         "天眼查",
-        "百度百科"
+        "百度百科",
+        "启信宝"
       ],
-      "confidence": 70,
-      "notes": "成立于2001年，注册资本10,000万人民币，西湖电子集团全资子公司，持有数源科技股份有限公司9.6743%股份。法定代表人：许虎忠。地址：浙江省杭州市西湖区文三路90号科技大厦A709-A710。员工约200人，年营收约1000万元。"
+      "confidence": 85,
+      "notes": "成立于2001年10月23日，注册资本10,000万人民币，实缴资本10,000万人民币。法定代表人：王河森。地址：浙江省杭州市西湖区文三路90号科技大厦A709-A710。统一社会信用代码：9133010073319317X6。企业类型：有限责任公司（非自然人投资或控股的法人独资）。西湖电子集团全资控股子公司，对外投资8家企业，实际控制10家企业。"
     }
   }
 }
